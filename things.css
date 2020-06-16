@@ -1,0 +1,18 @@
+fieldset {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 100%;
+}
+
+input {
+    min-width: 60%;
+}
+button {
+    margin: .6rem 1rem;
+}
+
+.container {
+    width: 80%;
+    margin: .5rem auto;
+}
